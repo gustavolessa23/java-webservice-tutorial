@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://vhost3.cs.rit.edu/SortServ/Service.svc?singleWsdl" uri="wsdl/vhost3.cs.rit.edu/SortServ/Service.svc.singlewsdl.wsdl"/>
+    <system systemId="http://vhost3.cs.rit.edu/SortServ/Service.svc?Wsdl" uri="wsdl/vhost3.cs.rit.edu/SortServ/Service.svc.wsdl"/>
+    <system systemId="http://vhost3.cs.rit.edu/SortServ/Service.svc?xsd=xsd0" uri="wsdl/vhost3.cs.rit.edu/SortServ/Service.svc.xsd_xsd0.xsd"/>
+    <system systemId="http://vhost3.cs.rit.edu/SortServ/Service.svc?xsd=xsd1" uri="wsdl/vhost3.cs.rit.edu/SortServ/Service.svc.xsd_xsd1.xsd"/>
+</catalog>
